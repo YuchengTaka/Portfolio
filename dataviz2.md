@@ -1,7 +1,7 @@
 # Data Visualization 2
 Here is my data visualization assignment !
 Here is the link to the main portfolio: https://yuchengtaka.github.io/Portfolio/
-# Visualization Part 1 (Government debit bar chart)
+# Visualization Part 1 (Government Debit bar chart)
 This is the link to the dataset: https://data.oecd.org/sharebox/?id=7krr&title=General%20government%20debt%2C%20Total%2C%20%25%20of%20GDP%2C%202019
 <iframe src="https://data.oecd.org/chart/7krr" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7krr" target="_blank">OECD Chart: General government debt, Total, % of GDP, 2019</a></iframe>
 
