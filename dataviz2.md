@@ -1,5 +1,5 @@
 # Data Visualization 2
-Here is my data visualization assignment !
+Here is my data visualization assignment!
 Here is the link to the main portfolio: https://yuchengtaka.github.io/Portfolio/
 # Visualization Part 1 (Government Debit bar chart)
 This is the link to the dataset: https://data.oecd.org/sharebox/?id=7krr&title=General%20government%20debt%2C%20Total%2C%20%25%20of%20GDP%2C%202019
