@@ -8,4 +8,5 @@ I wish to find a way to best communicate between interdisciplinary communities w
 This is my portfolio for this semester
 ## Assignment 1
 ## Assignment 2
+[This is my data visualization 2](/dataviz2.md)
 ## Final Project
