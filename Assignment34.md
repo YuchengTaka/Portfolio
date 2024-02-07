@@ -31,39 +31,45 @@ I conducted three short interviews to ask people for their feedback on my redesi
 22 Female Student
 
 - what do you think this is?
-I think they all show the market share of Tesla, BYD and Volkswagen in global e-vehicle
+
+"I think they all show the market share of Tesla, BYD, and Volkswagen in global e-vehicle"
 
 - Would you describe to me what this is telling you?
-  Tesla has always been doing well until recently getting surpassed by BYD. Volkswagen is not comparable with these two big leaders
-  BYD's been growing fast
+
+"Tesla has always been doing well until recently getting surpassed by BYD. Volkswagen is not comparable with these two big leaders
+  BYD's been growing fast"
 - Is there anything you find surprising or confusing?
 
+"The sequence of the sections in the bar chart is not consistent. I think a parallel comparison would be a good alternative. The line and pie graph are generally clear, at least to me"
 - Who is the intended audience for this, in your opinion?
 
+"People that are interested or planning to buy an e-vehicle? This tells me which brand is more popular and there must be a reason behind the popularity "
 - Is there anything you would change or do differently?
-
+There is some differences in the color assignment indicator on the right of all of your graphs, in the line chart it was a red dot and red Tesla Text, Orange dot for BYD and orange Text for BYD, maybe u should change the other text into their corresponding color"
 
 51 Male Engineer
 
 - what do you think this is?
 
+"They are graphs about global e-car market share and they have different intentions. "
 - Would you describe to me what this is telling you?
+
+"The pie chart tells me which car sells the most in a quarter, the line chart tells me the changes in market share across different Quarters. The bar chart is like a table to me" He then explains "They are just their percentage numbers in a colorful box, a colorful table! "
 
 - Is there anything you find surprising or confusing?
 
+"I am surprised on how better the line chart works in informing me about the situation in the global market, for I could access their percentage and I could see changes over time "
 - Who is the intended audience for this, in your opinion?
+
+"Probably people that invest stocks need to know which companies are doing better than the others, and also an opportunity to invest in weaker competitors, it's like seeing potentials, for example, Volkswagen are the manufacture that has its own culture and history, by seeing this trend u have to be sensitive to these numbers and be visionary. "
 
 - Is there anything you would change or do differently?
 
+"If I were you I would get rid of the bar graph"
 
-15 Male Student
+## Brief Summary of the feedback
+The overall feedback was positive. They both express some confusion about the bar graph, and they both like the line graph because of the obvious infor about the changes across quarters. They suggested that I should use more consistent text color along with the color scheme I had for the data viz. There are some differences in the intended audience. I think it is reasonable concerning the difference in their need and financial management directions. 
 
-  - what do you think this is?
+I learnt that I should focus more on the line and pie graph, making the text follows the overall color scheme. Creating a pie chart with pages might be a good way to conclude that many quarters. 
 
-- Would you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who is the intended audience for this, in your opinion?
-
-- Is there anything you would change or do differently?
+# Step Five: Build My Own solution
