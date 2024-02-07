@@ -10,5 +10,5 @@ This is my portfolio for this semester
 ## Assignment 2
 [This is my data visualization 2](/dataviz2.md)
 ## Assignment 3 & 4
-[This is my Critique by Design with Tableau MakeoverMonday](/assignment3&4.md)
+[This is my Critique by Design with Tableau MakeoverMonday](/Assignment34.md)
 ## Final Project
