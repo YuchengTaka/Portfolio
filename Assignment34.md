@@ -68,17 +68,19 @@ There is some differences in the color assignment indicator on the right of all 
 "If I were you I would get rid of the bar graph"
 
 ## Brief Summary of the feedback
-The overall feedback was positive. They both express some confusion about the bar graph, and they both like the line graph because of the obvious infor about the changes across quarters. They suggested that I should use more consistent text color along with the color scheme I had for the data viz. There are some differences in the intended audience. I think it is reasonable concerning the difference in their need and financial management directions. 
+The overall feedback was positive. They both express some confusion about the bar graph, and they both like the line graph because of the obvious infor about the changes across quarters. They suggested that I should use more consistent text color along with the color scheme I had for the data viz. There are some differences in the intended audience. It is reasonable to concern the difference in their need and financial management directions. 
 
-I learnt that I should focus more on the line and pie graph, making the text follows the overall color scheme. Creating a pie chart with pages might be a good way to conclude that many quarters. 
+I learned that I should focus more on the line graph make sure to conclude the major three companies that I am comparing, and use the right color scheme. 
 
-# Step Five: Build My Own solution
+# Step Five: Build My Own Solution
 Here is my line graph:
+I exclude all the other data besides Tesla, BYD, and Volkswagon. I set the y-axis to be the percentage of sharing and the x-axis to be the quarters according to time. I updated my final visualization with the annotated percentage of sharing of a brand for the audience to compare vertically within a certain quarter and have trends available for people to compare horizontally. The line graph serves as a good visualization method that gives information about the difference between brands themselves and the overall changes throughout the years. 
+The data I used are retrieved from: https://data.world/makeovermonday/2023w7
 
-<div class='tableauPlaceholder' id='viz1707279386515' style='position: relative'><noscript><a href='#'><img alt='Global Electronic Vehicle Share ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;Part3DebtGDP&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Part3DebtGDP&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;Part3DebtGDP&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>            
+<div class='tableauPlaceholder' id='viz1707280721256' style='position: relative'><noscript><a href='#'><img alt='Global Electronic Vehicle Share ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;Part3DebtGDP&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Part3DebtGDP&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;Part3DebtGDP&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>            
 
 <script type='text/javascript'>                    
- var divElement = document.getElementById('viz1707279386515');                    
+ var divElement = document.getElementById('viz1707280721256');                    
  var vizElement = divElement.getElementsByTagName('object')[0];                    
  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
  var scriptElement = document.createElement('script');                    
