@@ -31,7 +31,7 @@ I conducted three short interviews to ask people for their feedback on my redesi
 22 Female Student
 
 - what do you think this is?
-  I think they all show the market share of Tesla, BYD and Volkswagen in global e-vehicle
+I think they all show the market share of Tesla, BYD and Volkswagen in global e-vehicle
 
 - Would you describe to me what this is telling you?
   Tesla has always been doing well until recently getting surpassed by BYD. Volkswagen is not comparable with these two big leaders
