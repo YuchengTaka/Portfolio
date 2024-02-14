@@ -65,5 +65,12 @@ I hope to illustrate the share of each major form of music in the market each ye
 
 The line graph about the carbon footprint of physical copy of music and digital streams is generating and their trend by years
 ![image](https://github.com/YuchengTaka/Portfolio/assets/157436551/bd3f8d29-6bb4-4fa3-aa76-cd7d29f42bc6)
-The visualization aims to 
+The visualization aims to give the audience an idea of the footprint both forms of music is generating. I hope this could provide informations and ideas of the environmental impact by selling music. 
 
+Progress and Storytelling and Emotion
+![image](https://github.com/YuchengTaka/Portfolio/assets/157436551/1daa6760-57ca-4c00-a021-bb9027c6c8d6)
+
+
+# Methods and Medium
+
+In this project, I would use Tableau for accurate and suitable visualization and shorthand to boost my storytelling to further generate and explain the desired line graph and stacked bar graph using the data.  I would use GitHub to do hosting and sharing which serves as the central hub for the project, hosting the Shorthand narrative, Tableau visualizations embedded within the story, and any additional resources or documentation related to the project.
