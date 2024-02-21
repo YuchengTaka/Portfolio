@@ -3,7 +3,12 @@
 # Wireframes / storyboards
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+Introduction Slide: A compelling visual that juxtaposes images of digital music consumption (smartphones, computers) against environmental imagery (power plants, natural landscapes). This sets the tone for the contrast you'll explore.
+Problem Statement: A clear, concise visualization illustrating the growth of digital music streaming services over time, accompanied by rising energy consumption. Use icons and brief text to make the issue immediately clear.
+Data Visualization Drafts:
+A bar chart comparing the energy consumption of digital vs. physical music formats over the past decade.
+A line graph showing the rise in carbon emissions attributed to the data centers powering music streaming services.
+A stacked bar graph illustrating the market share of digital versus physical music sales year over year, highlighting the shift toward digital.
 
 # User research 
 
