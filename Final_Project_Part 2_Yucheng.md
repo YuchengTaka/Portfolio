@@ -15,12 +15,16 @@ A stacked bar graph illustrating the market share of digital versus physical mus
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+Young adults aged 18-35 who frequently use digital music streaming services and express some concern about environmental issues. 
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+What digital platforms do you use to listen to music, and how often?
+Were you aware of the environmental impact of digital music streaming? Why or why not?
+After hearing about the potential environmental costs, does this change how you feel about streaming music?
+What actions, if any, would you consider taking to reduce your digital music footprint?
+
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -63,4 +67,10 @@ Text here!
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
 
-Text here!
+Moodboard
+Gather images that evoke a tech-savvy yet environmentally conscious feel—using cool blues and greens to blend technology with nature. Include visuals of digital devices, streaming app interfaces, renewable energy sources, and natural landscapes.
+Typography should be modern and readable, with clean lines to reflect a digital theme without sacrificing accessibility.
+Personas
+Eco-conscious Emma: A college student majoring in Environmental Studies, Emma streams music daily but prioritizes sustainability. She's looking for ways to balance her digital consumption with her environmental values.
+Tech-savvy Tom: Working in tech, Tom is an avid music fan who uses multiple streaming services. He's interested in tech solutions that can reduce his carbon footprint without significantly altering his lifestyle.
+
