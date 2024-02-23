@@ -13,4 +13,4 @@ This is my portfolio for this semester
 [This is my Critique by Design with Tableau MakeoverMonday](/Assignment34.md)
 ## Final Project
 [This is my final project part I](/Final_Project_Yucheng.md)
-[This is my final project part I](/Final_Project_Part2_Yucheng.md)
+[This is my final project part II](/Final_Project_Part 2_Yucheng.md)
