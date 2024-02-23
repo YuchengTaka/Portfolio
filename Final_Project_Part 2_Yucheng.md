@@ -1,8 +1,7 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
+Here is the link to my shorthand preview page: https://preview.shorthand.com/J962V2jfnGTVD7I3
 Introduction Slide: A compelling visual that juxtaposes images of digital music consumption (smartphones, computers) against environmental imagery (power plants, natural landscapes). This sets the tone for the contrast you'll explore.
 Problem Statement: A clear, concise visualization illustrating the growth of digital music streaming services over time, accompanied by rising energy consumption. Use icons and brief text to make the issue immediately clear.
 Data Visualization Drafts:
