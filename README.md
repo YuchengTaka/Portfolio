@@ -16,3 +16,4 @@ This is my portfolio for this semester
 ## Final Project
 [This is my final project part I](/Final_Project_Yucheng.md)
 [This is my final project part II](/Final_Project_Part2_Yucheng.md)
+[This is my final project part III](/Final_Project_Part3_Yucheng.md)
