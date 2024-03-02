@@ -2,10 +2,10 @@
 
 # The final data story
 > [This is my shorthand for my final project](https://preview.shorthand.com/2LYrpiANUbefEVDL)
-This shorthand slide delivers a story to the audience about the hidden cost of music streaming in carbon burden around the globe, engaging the audience into making changes in music streaming that promote a better sustainable future, upgrading the music industry
+This shorthand slide delivers a story to the audience about the hidden cost of music streaming in carbon burden around the globe, engaging the audience into making changes in music streaming that promote a better sustainable future, upgrading the music industry. 
 
 
-# Changes made since Part II and Final design decisions
+# Summary of Changes made since Part II and Final design decisions
 From part II, I received a lot of constructive advice and critiques about the content and format of my delivery. As for the content, I upgraded the stacked bar graph into an area graph that better illustrates the changes in the music industry throughout the past decades. Here is the updated graph I made using Tableau. I decided to use yellow and red color to represent modern forms of digital music. I choose to use these color because I learnt that color conveys emotion and attract attention, the color schemes works well in attracting attention and also works well in indicating my implication that people should be warn or informed of the potential environmental damage of digital streaming. 
 
 <div class='tableauPlaceholder' id='viz1709373805120' style='position: relative'><noscript><a href='#'><img alt='The shift in total revenue made by different forms of music ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mu&#47;MusicRevenue_17091433062410&#47;Sheet8&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MusicRevenue_17091433062410&#47;Sheet8' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mu&#47;MusicRevenue_17091433062410&#47;Sheet8&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>     
@@ -41,6 +41,8 @@ I also create a better shorthand with my storyline of delivery. I start the audi
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+To sum up, the feedback from part 2 and also after the presentation helps me rethink the relationship between me and my audience and helps me make better decisions in choosing data visualization and telling the story in a more approachable and engaging manner. 
+
 ## The audience
 My audience remains the general public but after getting feedback from the interview and from Professor and TA. I rethought my approach to delivering and thinking about how to make people engaged in my study. I change the title to Listening to Carbon Footprint to give my audience a hint of music and environmental-related topics. I also wish to use simple language and good data visualization to deliver my specialty in Environmental Studies and Music Performances background. I think the presentation works well in showcasing the story behind the carbon footprint of music streaming. 
 
@@ -48,7 +50,20 @@ My audience remains the general public but after getting feedback from the inter
 
 ## References
 Shorthand Unsplash figures
+
 Wikipedia on Streaming
+https://en.wikipedia.org/wiki/Streaming_media
+
+
+Dataset from https://data.world/makeovermonday/2020w21-visualizing-40-years-of-music-industry-sales
+
+Studies on the costs of music: https://www.cambridge.org/core/journals/popular-music/article/abs/cost-of-music/DEC6AA100C191D510213F9086CF094CC
+
+Brennan, M., & Devine, K. (2020). The cost of music. Popular Music, 39(1), 43–65. doi:10.1017/S0261143019000552
+
+Music Revenue report: 
+https://www.riaa.com/reports/2022-year-end-music-industry-revenue-report-riaa/
+
 
 
 # Final thoughts
