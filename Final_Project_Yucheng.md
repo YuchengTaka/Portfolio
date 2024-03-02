@@ -1,3 +1,5 @@
+| [home page](https://yuchengtaka.github.io/Portfolio/) | [visualizing debt](dataviz2.md) | [critique by design](Assignment34.md) | [final project I](Final_Project_Yucheng.md) | [final project II](Final_Project_Part2_Yucheng.md) | [final project III](Final_Project_Part3_Yucheng.md) |
+
 # FINAL PROJECT
 
 Here is my final project part I! Here is the link to the main portfolio: https://yuchengtaka.github.io/Portfolio/
