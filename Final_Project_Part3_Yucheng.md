@@ -5,8 +5,8 @@
 This shorthand slide delivers a story to the audience about the hidden cost of music streaming in carbon burden around the globe, engaging the audience into making changes in music streaming that promote a better sustainable future, upgrading the music industry
 
 
-# Changes made since Part II
-From part II, I received a lot of constructive advice and critiques about the content and format of my delivery. As for the content, I upgraded the stacked bar graph into an area graph that better illustrates the changes in the music industry throughout the past decades. Here is the updated graph I made using Tableau. 
+# Changes made since Part II and Final design decisions
+From part II, I received a lot of constructive advice and critiques about the content and format of my delivery. As for the content, I upgraded the stacked bar graph into an area graph that better illustrates the changes in the music industry throughout the past decades. Here is the updated graph I made using Tableau. I decided to use yellow and red color to represent modern forms of digital music. I choose to use these color because I learnt that color conveys emotion and attract attention, the color schemes works well in attracting attention and also works well in indicating my implication that people should be warn or informed of the potential environmental damage of digital streaming. 
 
 <div class='tableauPlaceholder' id='viz1709373805120' style='position: relative'><noscript><a href='#'><img alt='The shift in total revenue made by different forms of music ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mu&#47;MusicRevenue_17091433062410&#47;Sheet8&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MusicRevenue_17091433062410&#47;Sheet8' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mu&#47;MusicRevenue_17091433062410&#47;Sheet8&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>     
 
@@ -19,23 +19,39 @@ From part II, I received a lot of constructive advice and critiques about the co
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+I also create a better shorthand with my storyline of delivery. I start the audience's journey with a showcase of the changes in music histories to make people understand the speed of increasing digital forms and the decrease in traditional physical music. I also made visualizations using Tableau to showcase the carbon footprint contributor distribution to back up my idea that streaming nowadays generates the most carbon footprint among all the other music forms. I updated the shorthand with the figures with the distribution of music industry revenue in 2019 and the underlying carbon footprint for 2019. The figure shows a total dominance of music streaming both in the sales but also in the carbon burden it delivered to Earth. 
+
+<div class='tableauPlaceholder' id='viz1709375753582' style='position: relative'><noscript><a href='#'><img alt='Distribution of Revenue of Music in 2019 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mu&#47;MusicRevenue2019&#47;Sheet11&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MusicRevenue2019&#47;Sheet11' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mu&#47;MusicRevenue2019&#47;Sheet11&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+ var divElement = document.getElementById('viz1709375753582');                    
+ var vizElement = divElement.getElementsByTagName('object')[0];                    
+ vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+ var scriptElement = document.createElement('script');                    
+ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+ vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+<div class='tableauPlaceholder' id='viz1709375916929' style='position: relative'><noscript><a href='#'><img alt='Carbon Footprint ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mu&#47;MusicCO2&#47;Sheet14&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MusicCO2&#47;Sheet14' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mu&#47;MusicCO2&#47;Sheet14&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+ var divElement = document.getElementById('viz1709375916929');                    
+ var vizElement = divElement.getElementsByTagName('object')[0];                    
+ vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+ var scriptElement = document.createElement('script');                    
+ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+ vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+My audience remains the general public but after getting feedback from the interview and from Professor and TA. I rethought my approach to delivering and thinking about how to make people engaged in my study. I change the title to Listening to Carbon Footprint to give my audience a hint of music and environmental-related topics. I also wish to use simple language and good data visualization to deliver my specialty in Environmental Studies and Music Performances background. I think the presentation works well in showcasing the story behind the carbon footprint of music streaming. 
 
-Text here!
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
 
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
+Shorthand Unsplash figures
+Wikipedia on Streaming
 
-Text here!
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+I think the overall structure of this mini is very reasonable and the instructors offer a lot of flexibility for students to plan their schedule and the feedback from you guys is always timely and helpful. Thank you again for this amazing semester. 
+The things I wish to improve are thinking about a topic and starting digging for the dataset earlier, it would make the process much easier because dealing with data and cleaning it usually takes a lot of time. After cleaning and preparing the data, one would have more time to design them in tableau and apply the good practices we learned from discussions, lectures, previous assignments, and in-class activities. I feel that I could be more decisive in finding a good way to represent the analysis of data than before, I also found that I am more adaptable in choosing color schemes to deliver emotion and implications within data visualization. Overall, even though I have been dealing with data for some time, I found myself new to data analysis when I started learning this course, and throughout these days of learning and practicing I am more confident in dealing with data, I wish I could use the knowledge I learned from this course to deliver better data analysis in my future academic life and career. 
 
-Text here!
