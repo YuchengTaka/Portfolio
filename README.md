@@ -1,3 +1,5 @@
+| [home page](https://yuchengtaka.github.io/Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
 # Portfolio
 This is my public portfolio for 94-470 at CMU! 
 # About Me
