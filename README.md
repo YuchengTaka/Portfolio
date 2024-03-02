@@ -1,4 +1,4 @@
-| [home page](https://yuchengtaka.github.io/Portfolio/) | [visualizing debt](dataviz2.md) | [critique by design](Assignment34.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://yuchengtaka.github.io/Portfolio/) | [visualizing debt](dataviz2.md) | [critique by design](Assignment34.md) | [final project I](Final_Project_Yucheng.md) | [final project II](Final_Project_Part2_Yucheng.md) | [final project III](Final_Project_Part3_Yucheng.md) |
 
 # Portfolio
 This is my public portfolio for 94-470 at CMU! 
