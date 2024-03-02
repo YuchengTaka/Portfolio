@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 
-Here is the link to my shorthand preview page: https://preview.shorthand.com/J962V2jfnGTVD7I3
+Here is the link to my shorthand preview page: (https://preview.shorthand.com/2LYrpiANUbefEVDL)
 
 Introduction Slide: A background knowledge on the topic This sets the tone for the contrast you'll explore.
 Problem Statement: A clear, concise visualization illustrating the growth of digital music streaming services over time, accompanied by rising energy consumption. Use icons and brief text to make the issue immediately clear.
